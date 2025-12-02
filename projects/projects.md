@@ -10,7 +10,7 @@
 **Тип:** учебный проект (дипломная работа)  
 **Артефакты:** чек-листы, тест-кейсы, баг-репорты  
 **Статус:** проект хранится в этом репозитории  
-**Папка:** /stepik-auth-testing/ (будет добавлена)
+**Папка:** [/stepik-auth-testing](https://github.com/AnastasiyaPolyanskaya/qa-study-projects/tree/main/stepik-auth-testing)
 
 ---
 
@@ -18,15 +18,15 @@
 **Тип:** учебный проект  
 **Артефакты:** тест-кейсы, чек-листы, исследовательское тестирование  
 **Статус:** проект хранится в этом репозитории  
-**Папка:** /besplatnoe-obuchenie-testing/ (будет добавлена)
+**Папка:** [/besplatnoe-obuchenie-testing](https://github.com/AnastasiyaPolyanskaya/qa-study-projects/tree/main/besplatnoe-obuchenie-testing)
 
 ---
 
 ## 3. Техники тест-дизайна
 **Тип:** самостоятельная практика  
 **Артефакты:** классы эквивалентности, граничные значения, таблицы решений  
-**Папка:** /test-design-examples/ (будет добавлена)
-
+**Статус:** проект хранится в этом репозитории  
+**Папка:** [/test-design-examples](https://github.com/AnastasiyaPolyanskaya/qa-study-projects/tree/main/test-design-examples)
 ---
 
 ## 4. IVI Beta Testing
