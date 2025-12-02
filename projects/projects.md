@@ -32,7 +32,7 @@
 ## 4. IVI Beta Testing
 **Тип:** реальное бета-тестирование  
 **Артефакты:** баг-репорты, чек-листы, сценарии тестирования  
-**Репозиторий:** будет создан отдельно
+**Репозиторий:** [IVI-Beta-Testing](https://github.com/AnastasiyaPolyanskaya/IVI-Beta-Testing)
 
 ---
 
