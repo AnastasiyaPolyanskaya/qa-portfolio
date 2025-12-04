@@ -39,7 +39,7 @@
 ## 5. VK Testers (VK Beta)
 **Тип:** реальное бета-тестирование  
 **Артефакты:** баг-репорты, UX-замечания  
-**Репозиторий:** будет создан отдельно
+**Репозиторий:** [VK-Beta-Testing](https://github.com/AnastasiyaPolyanskaya/VK-Beta-Testing)
 
 ---
 
