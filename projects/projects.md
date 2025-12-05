@@ -46,7 +46,7 @@
 ## 6. Python practice
 **Тип:** учебная практика  
 **Описание:** задачи по циклам, строкам, функциям, условиям  
-**Репозиторий:** будет добавлен
+**Репозиторий:** [Python-practice](https://github.com/AnastasiyaPolyanskaya/qa-study-projects/tree/main/python-practice)
 
 ---
 
