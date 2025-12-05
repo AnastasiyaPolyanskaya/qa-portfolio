@@ -1,4 +1,4 @@
-# QA Portfolio — Anastasia Polyanskaya
+# QA Portfolio - Anastasia Polyanskaya
 
 Добро пожаловать в мой главный репозиторий-портфолио.
 
