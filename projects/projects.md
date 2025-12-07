@@ -53,4 +53,4 @@
 ## 7. SQL practice
 **Тип:** учебная практика  
 **Описание:** SELECT, JOIN, группировки, подзапросы  
-**Репозиторий:** будет добавлен
+**Репозиторий:** [sql-practice](https://github.com/AnastasiyaPolyanskaya/qa-study-projects/tree/main/sql-practice)
