@@ -61,4 +61,4 @@
 **Артефакты:** тест-кейсы, баг-репорты, скриншоты  
 **Описание:** исследовательское UI-тестирование мобильной версии сайта Wink Beta. Проверялась корректность отображения элементов главной страницы и адаптивность блоков.  
 **Статус:** проект хранится в этом репозитории  
-**Папка:** [/wink-beta-ui-testing](https://github.com/AnastasiyaPolyanskaya/IVI-Beta-Testing/tree/main/04-wink-beta)
+**Папка:** [/wink-beta-ui-testing](https://github.com/AnastasiyaPolyanskaya/IVI-Beta-Testing/tree/main/wink-beta-ui)
